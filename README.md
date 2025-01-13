@@ -1,4 +1,7 @@
-## Hi there 👋
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img height="175px" src="https://github-readme-stats-coral-phi-94.vercel.app/api?username=krish2995&custom_title=Github%20Stats&show_icons=true&rank_icon=github&theme=midnight-purple" />
+  <img height="175px" src="https://github-readme-stats-coral-phi-94.vercel.app/api/top-langs/?username=krish2995&layout=compact&theme=midnight-purple" />
+</div>
 
 <!--
 **krish2995/krish2995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
